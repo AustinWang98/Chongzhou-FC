@@ -1,0 +1,53 @@
+.med-square-img {
+    width: 100%;
+    height: auto;
+}
+#class-info{
+    width: 100%;
+    height: auto;
+}
+
+.media{
+           
+    background-color: whitesmoke;
+    padding: 10px;
+  }
+
+.media-news {
+    background: transparent;
+}
+
+.card-ad{
+    background: transparent;
+    text-align: center;
+}
+.card{
+    background-color: transparent;
+}
+#homeslider{
+    height:90vh;
+    background-color: black;
+    position: relative;
+   
+}
+#carowrapper{
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    right:20px;
+    overflow: hidden;
+   
+}
+
+/* .home-slide {
+     /* padding: 10px; */
+    /* } */ 
+.home-slide-inner {
+    background-color: red; 
+    color: white; 
+    margin: 2px;
+    height: 210px;
+    background-size: cover;
+}
+
+  
