@@ -18,7 +18,7 @@ var playersData= [
         id :5,
         name:'徐翌纶',
         number:5,
-        img:'徐.jpg'
+        img:'xu.jpg'
     } ,
     {
         id :6,
@@ -31,7 +31,7 @@ var playersData= [
         id :7,
         name:'陈红瑞',
         number:7,
-        img:'陈红瑞.jpg'
+        img:'chenhongrui.jpg'
     } ,
     {
         id :8,
@@ -51,7 +51,7 @@ var playersData= [
         id :10,
         name:'陈昭沛',
         number:10,
-        img:'陈昭沛.jpg'
+        img:'chenzhaopei.jpg'
     } ,
     {
         id :11,
@@ -83,7 +83,7 @@ var playersData= [
         id :16,
         name:'邓继笙',
         number:16,
-        img:'邓.jpg'
+        img:'deng.jpg'
     } ,
     {
         id :17,
@@ -96,13 +96,13 @@ var playersData= [
         id :18,
         name:'郭俊洋',
         number:18,
-        img:'郭俊洋.jpg'
+        img:'guojunyang.jpg'
     } ,
     {
         id :19,
         name:'吴辰俊',
         number:19,
-        img:'吴.jpg'
+        img:'wu.jpg'
     } ,
     {
         id :20,
@@ -115,7 +115,7 @@ var playersData= [
         id :21,
         name:'杨晟睿',
         number:21,
-        img:'杨.jpg'
+        img:'yang.jpg'
     } ,
     {
         id :22,
@@ -158,7 +158,7 @@ var playersData= [
     {id:28,
     name:'夏铭轩',
     number:'28',
-    img:'夏.jpg'
+    img:'xia.jpg'
     }
     
     ]
