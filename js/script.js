@@ -170,7 +170,7 @@ for (i=0;i<data.length;i++){
     var myItem=data[i]
     var item = data[i]
         var name = item.name;
-        var img = '/assets/' + item.img;
+        var img = './assets/' + item.img;
         var number = item.number
 
 
